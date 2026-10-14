@@ -3,7 +3,7 @@ Windows-safe DITA-OT launcher
 
 ## Included launcher files
 
-The `bin` directory contains three launcher-related files:
+The `bin` directory contains launcher-related files:
 
 - `dita.bat` is the compatibility entry point. It invokes
   `dita-safe.ps1` with the original command-line arguments and returns the
